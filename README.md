@@ -96,3 +96,4 @@ Time: The first Tuesday of each month at 11PM Hong Kong Time/ 7AM PST.
 # License
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWasmEdge%2FWasmEdge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWasmEdge%2FWasmEdge?ref=badge_large)
+Testing matrix fix
